@@ -1,6 +1,6 @@
 # Secret Santa
 
-A script to create Secret Santa derrangement for N number of people.   
+A script to create Secret Santa derangement for N number of people.   
 Takes one argument: number of people paritcipating.   
 Prints out a derangement from that number.   
 
@@ -14,3 +14,6 @@ won't know who will buy them a present.
 
 For more detailed explanation whatch this video on YouTube:   
 [The Problems with Secret Santa - Numberphile](https://www.youtube.com/watch?v=5kC5k5QBqcc)
+
+Example -> Create derangement for five paritcipants:   
+![Example derangement for 5 participants](/example/example5.png "Derangement for 5 participants")
