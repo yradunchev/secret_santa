@@ -7,8 +7,8 @@ Prints out a derangement from that number.
 You can send script output to a file, print that file and cut it.   
 Fold pieces so it's not visible what is written on them.   
 Put pieces in a hat and ask people to pick a piece.   
-Print a table form 1 to N and ask everyone to write his name against   
-the number he got from the hat. Hang the table in the Office rest area.   
+Print a list form 1 to N and ask everyone to write his name against   
+the number he got from the hat. Hang the list in the Office rest area.   
 This way everyone will know to whom they should buy a present but
 won't know who will buy them a present.
 
